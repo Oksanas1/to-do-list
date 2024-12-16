@@ -1,6 +1,6 @@
 # Project: Todo list
 
-### [Site link](https://to-do-list.netlify.app/)
+### [Site link](https://todoslist-react-apps.netlify.app/)
 
 Layout support desktop and mobile version
 
