@@ -1,4 +1,4 @@
-# Project: Todo list
+# Project: To do list
 
 ### [Site link](https://todoslist-react-apps.netlify.app/)
 
